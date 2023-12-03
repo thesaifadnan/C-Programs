@@ -1,3 +1,11 @@
+//Printing the numbers in lower right matrix triangle shape C Programs
+
+//      1
+//     22
+//    333
+//   4444
+//  55555
+
 #include<stdio.h>
 int main()
 {
