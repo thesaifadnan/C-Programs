@@ -1,3 +1,9 @@
+// A certain center in the city of Dehradun would like to track day-wise vaccinations done for the
+// age groups from 12 to 17 years. Write a C program using a switch case statement by accepting
+// the day number & number of vaccinations on a certain day of the week (use any appropriate
+// convention to indicate the day of the week). Later ask the user for the day number & print the total
+// number of vaccinations on that day.
+
 #include<stdio.h>
 int main()
 {
